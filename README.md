@@ -14,6 +14,22 @@ A beautiful Flutter weather application that provides real-time weather informat
 
 ## Screenshots
 
+## Home Screen
+
+<p align="center">
+  <img src="assets/screenshots/Screenshot_1760991127.png" alt="Home Screen" width="30%" style="margin-right: 10px;">
+</p>
+
+---
+
+## Search Screen
+<p align="center">
+  <img src="assets/screenshots/Screenshot_1760991147.png" alt="Search Screen" width="30%" style="margin-right: 10px;">
+  <img src="assets/screenshots/Screenshot_1760991154.png" alt="Search Screen" width="30%" style="margin-right: 10px;">
+</p>
+
+---
+
 The app features different color themes based on weather conditions:
 - ☀️ **Sunny/Clear**: Orange gradient
 - 🌨️ **Snow/Sleet**: Blue gradient
