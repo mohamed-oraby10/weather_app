@@ -184,6 +184,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Built with [Flutter](https://flutter.dev/)
 - State management using [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 
+  
+## Author
+
+**Mohamed Oraby**
+- GitHub: [@mohamed-oraby10](https://github.com/mohamed-oraby10)
+
 ## Support
 
 For issues, questions, or suggestions, please open an issue in the repository.
