@@ -18,6 +18,9 @@ A beautiful Flutter weather application that provides real-time weather informat
 
 <p align="center">
   <img src="assets/screenshots/Screenshot_1760991127.png" alt="Home Screen" width="30%" style="margin-right: 10px;">
+    <img src="assets/screenshots/WhatsApp Image 2025-10-21 at 10.34.33_db07a138.jpg" alt="Home Screen" width="30%" style="margin-right: 10px;">
+  <img src="assets/screenshots/WhatsApp Image 2025-10-21 at 10.34.56_22db360d.jpg" alt="Home Screen" width="30%" style="margin-right: 10px;">
+
 </p>
 
 ---
