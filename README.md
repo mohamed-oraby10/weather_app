@@ -14,6 +14,25 @@ A beautiful Flutter weather application that provides real-time weather informat
 
 ## Screenshots
 
+## Home Screen
+
+<p align="center">
+  <img src="assets/screenshots/Screenshot_1760991127.png" alt="Home Screen" width="30%" style="margin-right: 10px;">
+    <img src="assets/screenshots/WhatsApp Image 2025-10-21 at 10.34.33_db07a138.jpg" alt="Home Screen" width="30%" style="margin-right: 10px;">
+  <img src="assets/screenshots/WhatsApp Image 2025-10-21 at 10.34.56_22db360d.jpg" alt="Home Screen" width="30%" style="margin-right: 10px;">
+
+</p>
+
+---
+
+## Search Screen
+<p align="center">
+  <img src="assets/screenshots/Screenshot_1760991147.png" alt="Search Screen" width="30%" style="margin-right: 10px;">
+  <img src="assets/screenshots/Screenshot_1760991154.png" alt="Search Screen" width="30%" style="margin-right: 10px;">
+</p>
+
+---
+
 The app features different color themes based on weather conditions:
 - ☀️ **Sunny/Clear**: Orange gradient
 - 🌨️ **Snow/Sleet**: Blue gradient
@@ -167,6 +186,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Weather data provided by [WeatherAPI.com](https://www.weatherapi.com/)
 - Built with [Flutter](https://flutter.dev/)
 - State management using [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+
+  
+## Author
+
+**Mohamed Oraby**
+- GitHub: [@mohamed-oraby10](https://github.com/mohamed-oraby10)
 
 ## Support
 
